@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    background-color: aqua;
+    }
+
+p {
+    color: blue
+}
+
+.firsta {
+    color: green;
+    background-color: yellow;
+}
+
+#onibus1 {
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+}
